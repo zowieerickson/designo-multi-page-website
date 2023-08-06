@@ -1,0 +1,28 @@
+.globalnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.globalnav-logo {
+    width: 196px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.globalnav-list {
+    display: flex;
+    gap: 42px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px; /* 100% */
+    letter-spacing: 2px;
+}
+
+.globalnav-list .globalnav-item {
+    text-transform: uppercase;
+}
+
+.globalnav-list .globalnav-item:hover {
+    text-decoration: underline;
+}

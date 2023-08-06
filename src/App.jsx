@@ -5,8 +5,6 @@ function App() {
   return (
     <>
       <Nav />
-      <p>Hello, world!</p>
-      <h1>🚧 Beginning of Designo 🚧</h1>
     </>
   )
 }
