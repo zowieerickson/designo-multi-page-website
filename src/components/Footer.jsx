@@ -1,10 +1,7 @@
 import Nav from "./Nav"
+import SocialContact from "./SocialContact"
 import LightLogo from "../assets/shared/desktop/logo-light.png"
-import {ReactComponent as FacebookLogo} from "../assets/shared/desktop/icon-facebook.svg"
-import {ReactComponent as YoutubeLogo} from "../assets/shared/desktop/icon-youtube.svg"
-import {ReactComponent as TwitterLogo} from "../assets/shared/desktop/icon-twitter.svg"
-import {ReactComponent as PinterestLogo} from "../assets/shared/desktop/icon-pinterest.svg"
-import {ReactComponent as InstagramLogo} from "../assets/shared/desktop/icon-instagram.svg"
+
 import "../styles/footer.css"
 
 export default function Footer() {
@@ -23,11 +20,7 @@ export default function Footer() {
                     <p ><strong><a href="mailto:contact@designo.co">M : contact@designo.co</a></strong></p>
                 </div>
                 <div className="contact-social">
-                  <a href="https://www.facebook.com/" target="_blank" aria-label="Facebook"><FacebookLogo /></a>
-                  <a href="https://www.youtube.com/" target="_blank" aria-label="Youtube"><YoutubeLogo /></a>
-                  <a href="https://www.twitter.com/" target="_blank" aria-label="Twitter"><TwitterLogo /></a>
-                  <a href="https://www.pinterest.com/" target="_blank" aria-label="Pinterest"><PinterestLogo /></a>
-                  <a href="https://www.instagram.com/" target="_blank" aria-label="Instagram"><InstagramLogo /></a>
+                    <SocialContact/>
               </div>
             </section>
         </footer>
