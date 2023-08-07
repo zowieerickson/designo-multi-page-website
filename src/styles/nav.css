@@ -15,7 +15,7 @@
 .globalnav-list {
     display: flex;
     gap: 42px;
-    font-size: 14px;
+    font-size: .875rem;
     font-weight: 400;
     line-height: 14px; /* 100% */
     letter-spacing: 2px;
