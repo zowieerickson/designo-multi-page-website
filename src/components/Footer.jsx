@@ -23,11 +23,11 @@ export default function Footer() {
                     <p ><strong><a href="mailto:contact@designo.co">M : contact@designo.co</a></strong></p>
                 </div>
                 <div className="contact-social">
-                  <FacebookLogo /> 
-                  <YoutubeLogo /> 
-                  <TwitterLogo /> 
-                  <PinterestLogo /> 
-                  <InstagramLogo /> 
+                  <a href="https://www.facebook.com/" target="_blank" aria-label="Facebook"><FacebookLogo /></a>
+                  <a href="https://www.youtube.com/" target="_blank" aria-label="Youtube"><YoutubeLogo /></a>
+                  <a href="https://www.twitter.com/" target="_blank" aria-label="Twitter"><TwitterLogo /></a>
+                  <a href="https://www.pinterest.com/" target="_blank" aria-label="Pinterest"><PinterestLogo /></a>
+                  <a href="https://www.instagram.com/" target="_blank" aria-label="Instagram"><InstagramLogo /></a>
               </div>
             </section>
         </footer>
