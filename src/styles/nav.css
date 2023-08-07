@@ -2,6 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 3em 165px 0;
+
 }
 
 .globalnav-logo {
