@@ -17,5 +17,16 @@
     padding-top: 31px;
     font-weight: 500;
     line-height: 26px; /* 162.5% */
+}
+
+.contact-address, .contact-methods {
     opacity: 0.5;
+}
+
+.contact .contact-social {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-basis: 34%;
+    gap: 1em;
 }
