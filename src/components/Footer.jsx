@@ -8,7 +8,6 @@ import "../styles/footer.css"
 export default function Footer() {
     return (
         <>
-            <footer className="globalfooter" id="globalfooter" lang="en-US">
             <section className="cta-banner">
                 <div className="cta-banner-copy">
                     <h2 className="cta-banner-title">Let’s talk about your&nbsp;project</h2>
@@ -16,6 +15,8 @@ export default function Footer() {
                 </div>
                 <LightButton children="Get in touch"></LightButton>
             </section>
+            <footer className="globalfooter" id="globalfooter" lang="en-US">
+
                 <Nav logoImage={LightLogo} />
                 <section className="contact">
                     <div className="contact-address">

@@ -2,7 +2,7 @@
     color: #FFF;
     font-weight: 400;
     line-height: 14px; /* 100% */
-    padding: 0 10.3em 4.5em;
+    padding: 9em 10.3em 4.5em;
     background-color: #1D1C1E;
 }
 
@@ -37,7 +37,7 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
-    top: -220px;
+    bottom: -70px;
     background-color: #E7816B;
     background-image: url(../assets/shared/desktop/bg-pattern-call-to-action.svg);
     background-size: cover;
@@ -45,12 +45,13 @@
     color: #fff;
     border-radius: 15px;
     padding: 4.5em 6em;
+    margin: 0 10.3em;
 }
 
 .cta-banner-copy {
     display: flex;
     flex-direction: column;
-    flex-basis: 32%;
+    flex-basis: 49%;
 }
 
 .cta-banner-title {
