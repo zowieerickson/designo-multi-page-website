@@ -19,11 +19,11 @@ const router = createBrowserRouter([
   },
   {
     path: "our-company",
-    element: <OurCompany title="Designo | Contact"/>,
+    element: <OurCompany title="Designo | Our Company"/>,
   },
   {
     path: "locations",
-    element: <Locations title="Designo | Contact"/>,
+    element: <Locations title="Designo | Locations"/>,
   },
   {
     path: "contact",
