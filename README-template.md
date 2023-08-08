@@ -18,6 +18,9 @@ This is a solution to the [Designo agency website challenge on Frontend Mentor](
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
+## Useful Resources
+1. https://blog.arnabghosh.me/netlify-react-router-not-working
+
 ## Overview
 
 ### The challenge
