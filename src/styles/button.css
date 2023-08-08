@@ -1,0 +1,22 @@
+.btn-light {
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.btn {
+    width: 152px;
+    height: 56px;
+    flex-shrink: 0;
+    color: #333136;
+    padding: 1.20em;
+    font-size: .9rem;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
