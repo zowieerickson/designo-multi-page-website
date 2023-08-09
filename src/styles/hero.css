@@ -10,9 +10,9 @@
 }
 
 .hero-copy-wrapper {
-    padding: 9em 6em 8.5em;
-    width: 61%;
-    flex-basis: 61%;
+    padding: 9em 0em 8.5em 6em;
+    width: 50%;
+    flex-basis: 50%;
     display: flex;
     flex-direction: column;
     gap: 2.5em;
@@ -23,13 +23,13 @@
 }
 
 .hero-copy {
-    width: 86%;
+    width: 85%;
     line-height: 26px;
 }
 
 .hero-bgimage-wrapper {
-    width: 39%;
-    flex-basis: 39%;
+    width: 50%;
+    flex-basis: 50%;
     overflow: hidden;
     position: relative;
 }
@@ -40,9 +40,6 @@
     height: 913px;
     background-repeat: no-repeat;
     background-image: url(../assets/home/desktop/image-hero-phone.png);
-
-    position: ABSOLUTE;
-    overflow: hidden;
-    left: -100px;
-    top: -41px;
+    position: absolute;
+    top: 50px;
 }
