@@ -5,7 +5,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import ErrorPage from "./components/ErrorPage.jsx";
+import ErrorPage from "./components/global/ErrorPage.jsx";
 import Contact from "./routes/Contact.jsx"
 import OurCompany from './routes/OurCompany.jsx';
 import Locations from './routes/Locations.jsx';

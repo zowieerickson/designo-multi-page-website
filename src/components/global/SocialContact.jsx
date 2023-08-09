@@ -1,8 +1,8 @@
-import {ReactComponent as FacebookLogo} from "../assets/shared/desktop/icon-facebook.svg"
-import {ReactComponent as YoutubeLogo} from "../assets/shared/desktop/icon-youtube.svg"
-import {ReactComponent as TwitterLogo} from "../assets/shared/desktop/icon-twitter.svg"
-import {ReactComponent as PinterestLogo} from "../assets/shared/desktop/icon-pinterest.svg"
-import {ReactComponent as InstagramLogo} from "../assets/shared/desktop/icon-instagram.svg"
+import {ReactComponent as FacebookLogo} from "../../assets/shared/desktop/icon-facebook.svg"
+import {ReactComponent as YoutubeLogo} from "../../assets/shared/desktop/icon-youtube.svg"
+import {ReactComponent as TwitterLogo} from "../../assets/shared/desktop/icon-twitter.svg"
+import {ReactComponent as PinterestLogo} from "../../assets/shared/desktop/icon-pinterest.svg"
+import {ReactComponent as InstagramLogo} from "../../assets/shared/desktop/icon-instagram.svg"
 
 export default function SocialContact() {
     return (

@@ -1,9 +1,9 @@
 import Nav from "./Nav"
 import SocialContact from "./SocialContact"
 import { LightButton } from "./Button"
-import LightLogo from "../assets/shared/desktop/logo-light.png"
+import LightLogo from "../../assets/shared/desktop/logo-light.png"
 
-import "../styles/footer.css"
+import "../../styles/footer.css"
 
 export default function Footer() {
     return (

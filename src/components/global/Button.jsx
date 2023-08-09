@@ -1,4 +1,4 @@
-import '../styles/button.css'
+import '../../styles/button.css'
 
 function Button({ type, buttonClass, onClick, children, ariaLabel }) {
     return (

@@ -1,5 +1,5 @@
-import DarkLogo from "../assets/shared/desktop/logo-dark.png"
-import "../styles/nav.css"
+import DarkLogo from "../../assets/shared/desktop/logo-dark.png"
+import "../../styles/nav.css"
 
 export default function Nav({ logoImage = DarkLogo }) {
     return (
