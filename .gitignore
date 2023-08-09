@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+# Code stuff
+.text-copy
+
 # Local Netlify folder
 .netlify
