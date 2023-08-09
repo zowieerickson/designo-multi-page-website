@@ -11,8 +11,8 @@
 
 .hero-copy-wrapper {
     padding: 9em 0em 8.5em 6em;
-    width: 55%;
-    flex-basis: 55%;
+    width: 50%;
+    flex-basis: 50%;
     display: flex;
     flex-direction: column;
     gap: 2.5em;
@@ -28,8 +28,8 @@
 }
 
 .hero-bgimage-wrapper {
-    width: 45%;
-    flex-basis: 45%;
+    width: 50%;
+    flex-basis: 50%;
     overflow: hidden;
     position: relative;
 }
